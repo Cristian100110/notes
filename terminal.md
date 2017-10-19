@@ -16,11 +16,7 @@
 
 --: (aveces)
 
-Quiero guardar esto en github (primera prueba)
 
-prueba 2
-
-Esta prueba es para asegurarme que esto sale bien
 
 
 
