@@ -2,7 +2,7 @@
 
 _En notacion de backus-naur_
 
-![Imagen GD](Sonido.png )
+![Imagen GD](Sonido.png)
 
 ## GNOME (3 shell)
 
@@ -32,7 +32,7 @@ _En notacion de backus-naur_
  2. Ctrl-S-T: sacar nueva pestaña.
  3. A[number]: Le da el foco a la pestaña _number_.
 
-- C-: interrumpe un programa
+- C-: interrumpe un programa.
 
 - C-z: Pasar a segundo plano
 
