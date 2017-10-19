@@ -1,10 +1,10 @@
-#ATAJOS DE LINUX - GNOME
+## ATAJOS DE LINUX - GNOME
 
 _En notacion de backus-naur_
 
-![Imagen GD](Sonido.png texto)
+![Imagen GD](Sonido.png )
 
-##GNOME (3 shell)
+## GNOME (3 shell)
 
 - M : Panel lateral.
 - C-q: Quitar un programa.
@@ -16,7 +16,7 @@ _En notacion de backus-naur_
 - M-flecha hacia arriba: Maximizar ventana
 
 
-##Texto
+## Texto
 
 - C-+: Ampliar la fuente
 - C--: Reducir la fuente
@@ -32,17 +32,22 @@ _En notacion de backus-naur_
  2. Ctrl-S-T: sacar nueva pestaña.
  3. A[number]: Le da el foco a la pestaña _number_.
 
--C-: interrumpe un programa
--C-z: Pasar a segundo plano
--C-s-c: Copiar
--C-s-v: pegar
--C-l: borrar la pantalla.
--C-d: Final de fichero.
+- C-: interrumpe un programa
+
+- C-z: Pasar a segundo plano
+
+- C-s-c: Copiar
+
+- C-s-v: pegar
+
+- C-l: borrar la pantalla.
+
+- C-d: Final de fichero.
 
 Y luego tenemos redline.
 
 
-##HOLA MUNDO!!! 
+## HOLA MUNDO!!! 
 
 Algo simple sin complicacion
 

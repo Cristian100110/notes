@@ -19,7 +19,7 @@ Siempre alerta estás
 
 - rm- rf (**r**ecursivo **f**orce)
 
-Git: 
+## Git: 
 
 - clone 
 - commit 
