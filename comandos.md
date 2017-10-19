@@ -19,8 +19,37 @@ Siempre alerta estás
 
 - rm- rf (**r**ecursivo **f**orce)
 
-- cat concatenar un archivo
+Git: 
 
+- clone 
+- commit 
+- status
+- add (vigiliar nuevos ficheros) 
+- git add -u (remove deleted files)
+- pull
+- push
+
+seq: secuencia de números.
+
+## comandos que unen
+
+cat concatenar un archivo
+
+paste: unir en vertical.
+
+join: Combinaciones.
+
+## comandos que dividen
+
+tail -2 archivo
+
+tail -f (deja el fichero abierto)
+
+head
+
+cut: cortan vertical => cut -d" " -f 1
+
+aplit: que divide horizontal
 
 
 

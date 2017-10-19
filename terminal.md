@@ -8,6 +8,14 @@
 - &lt;&lt; : here document.
 - &lt;&lt;&lt;: here string.
 
+##Metacaracteres
+
+~: Mi directorio home
+.: Directorio actual
+..: El directorio de arriba
+
+--: (aveces)
+
 
 
 
