@@ -31,6 +31,12 @@ Git:
 
 seq: secuencia de números.
 
+##Pequeño tutorial de como actualizar github
+
+- Primero escribir git status para ver aquello que modificamos.
+
+- Segundo paso 
+
 ## comandos que unen
 
 cat concatenar un archivo
