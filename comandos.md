@@ -66,11 +66,14 @@ split: que divide horizontal
 
 ## Otras
 
-wget: Descarga de internet
 mv: Mover o renombrar un archivo.
 Tr: Translate
 	-s squeeze
-
+uniq -c: Deja filas unicas. -c: Cuenta
+sort: Ordena. -n Numerico
+wget: Descarga de internet
+telnet: Enviar información atraves de una tuberia a otro sitio.
+ssh: Enviar información encriptada.
 
 
 
