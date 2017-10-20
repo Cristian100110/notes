@@ -62,10 +62,14 @@ head
 
 cut: cortan vertical => cut -d" " -f 1
 
-aplit: que divide horizontal
+split: que divide horizontal
 
+## Otras
 
-
+wget: Descarga de internet
+mv: Mover o renombrar un archivo.
+Tr: Translate
+	-s squeeze
 
 
 
