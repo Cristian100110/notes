@@ -11,8 +11,11 @@
 ## Variables
 
 \#: Cantidad de paramjetros.
+
 ?: Cualquier caracteres.
+
 []: Conjunto de selección.
+
 ## Metacaractere
 
 $: Dime el valor de una variable.

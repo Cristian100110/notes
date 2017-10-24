@@ -68,7 +68,7 @@ telnet: Enviar información atraves de una tuberia a otro sitio.
 
 ssh: Enviar información encriptada.
 
-##Para buscar 
+## Para buscar 
 
 Grep: filtra.
 
