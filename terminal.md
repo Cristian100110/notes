@@ -13,35 +13,47 @@
 \#: Cantidad de paramjetros.
 ?: Cualquier caracteres.
 []: Conjunto de selección.
-## Metacaracteres
+## Metacaractere
 
 $: Dime el valor de una variable.
 
 ### Sistema de ficheros.
 
 ~: Mi directorio home.
+
 .: Directorio actual.
+
 ..: El directorio de arriba.
 
 ## Opciones
+
 ' ': Partir en palabras.
-\\: Secuencia de escape => es la criptonita de los metacaracteres. 
+
+\\: Secuencia de escape => es la criptonita de los metacaracteres.
+
 --: (aveces el fichero representa a la terminal)
+
 "": Quita el poder a casi todos los metacaracteres menos al $
+
 \#: comentario
+
 '': Quitan el poder a todos los Metacaracteres.
 
 ## Otros
 
 \#! Shebang: Interprete con el que hay que ejecutar el archivo.
+
 !!: El último comando.
+
 !\*: Los últimos parametros.
 
 
 ### Operaciones Lógicas
 
 &&: AND
+
 ||: ORG
+
 !: NOT
 
 
