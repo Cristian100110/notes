@@ -16,9 +16,13 @@
 
 []: Conjunto de selección.
 
+
 ## Metacaractere
 
 $: Dime el valor de una variable.
+\`: Ejecutar un comando y sustituir por el resultado.
+&: Ejecuta una cosa en segundo plano.
+
 
 ### Sistema de ficheros.
 

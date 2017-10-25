@@ -60,9 +60,9 @@ Tr: Translate
 
 uniq -c: Deja filas unicas. -c: Cuenta
 
-sort: Ordena. -n Numerico
+sort: Ordena. -n Numerico.
 
-wget: Descarga de internet
+wget: Descarga de internet.
 
 telnet: Enviar información atraves de una tuberia a otro sitio.
 
@@ -74,6 +74,24 @@ Grep: filtra.
 
 Find: Buscar ficheros.
 
-xargs: Ejecuta con argumentos
+xargs: Ejecuta con argumentos.
 
-Which: Donde esta un programa
+Which: Donde esta un programa.
+
+Rsyn: Hace copias de seguridad (Varios equipos)
+
+mysqldump: Volcado de la base de datod.
+
+Date: Muestra la fecha (backup).
+
+History: Muestra el historial.
+
+fg <n>: Trae un proceso a primer plano.
+
+jobs: Lista todos los procesos detenidos.
+
+ps aux: Vemos los procesos.
+
+Kill: <pid>: Matamos el proceso.
+
+Kill -9 <pid>: Matar por la fuerza.
